@@ -11,3 +11,6 @@ pgvector
 python-multipart
 python-dotenv
 langchain-community
+langchain-postgres
+psycopg[binary]
+
